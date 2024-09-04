@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+send help, i'm in pain.
+
 <!--
 **whypain/whypain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
