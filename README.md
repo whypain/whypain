@@ -2,7 +2,7 @@
 
 send help, i'm in pain.
 
-[![whypain's GitHub stats](https://git-stats-five-blush.vercel.app/api?username=whypain&show_icons=true&theme=tokyonight&include_all_commits=true&bg_color=30,4A9B7F,0A3431)](https://github.com/anuraghazra/github-readme-stats)
+[![whypain's GitHub stats](https://git-stats-five-blush.vercel.app/api?username=whypain&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **whypain/whypain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
